@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwGX9RXLfR5dkQPpoRxsN4fSuKj0A0VLzOiHeqEY3L6QmMeoHMbnMRWXGMgOeD2eQooH92YEREYCjsnRLxoBPw==",
+  "success": true,
+  "projectFilePath": "D:\\visual stuido 2019\\source\\AcrylicWindow\\AcrylicWindow\\AcrylicWindow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\fluentwpf\\0.8.0\\fluentwpf.0.8.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\1.2.3\\materialdesigncolors.1.2.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\3.1.0\\materialdesignthemes.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AcrylicWindow/1.0.0": {
+        "dependencies": {
+          "FluentWPF": "0.8.0",
+          "MaterialDesignColors": "1.2.3",
+          "MaterialDesignThemes": "3.1.0"
+        },
+        "runtime": {
+          "AcrylicWindow.dll": {}
+        }
+      },
+      "FluentWPF/0.8.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/FluentWPF.dll": {
+            "assemblyVersion": "0.8.0.6",
+            "fileVersion": "0.8.0.6"
+          }
+        }
+      },
+      "MaterialDesignColors/1.2.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.2.3.1244",
+            "fileVersion": "1.2.3.1244"
+          }
+        }
+      },
+      "MaterialDesignThemes/3.1.0": {
+        "dependencies": {
+          "MaterialDesignColors": "1.2.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "3.1.0.1244",
+            "fileVersion": "3.1.0.1244"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcrylicWindow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentWPF/0.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yq/GjRtlNRjE5lLf99NWqJ+9kSeuhSrt55/Is1wgZwSL6s2oZWxfT1C6bnz7O+kzb/aAWEZD94X0MP5mW4H+qQ==",
+      "path": "fluentwpf/0.8.0",
+      "hashPath": "fluentwpf.0.8.0.nupkg.sha512"
+    },
+    "MaterialDesignColors/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7qvpcg98V6e1SKSodbsW31IF9IFBLMFs27xI3IzMA2vuLf1YpippfqnixdKmxlJCUwtOhQP4XkJNLJCQuZlTiA==",
+      "path": "materialdesigncolors/1.2.3",
+      "hashPath": "materialdesigncolors.1.2.3.nupkg.sha512"
+    },
+    "MaterialDesignThemes/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fFGxnXtAFxrwCYdtZxhkGOX4lRwI9Op6usK7+jU5/MLWRXrnz4u3+xlixgIbl4JAjlE+oWHBrTFBa/iSA3062A==",
+      "path": "materialdesignthemes/3.1.0",
+      "hashPath": "materialdesignthemes.3.1.0.nupkg.sha512"
+    }
+  }
+}
